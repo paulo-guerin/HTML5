@@ -1,0 +1,184 @@
+body{
+    max-height: 100%;
+    max-width:100%;
+    margin:0;
+    padding:0;
+}
+
+.visiblePageContainer{
+    height: 100vh;
+    max-width: 100%;
+    margin:0;
+    padding:0;
+}
+
+#firstPage{
+    background-color: rgb(236, 236, 236);
+}
+
+.navbar{
+    height:9%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
+.logo{
+    width:30%;
+    height: auto;
+    background-color: white;
+}
+
+.logoAndNav{
+    margin:0;
+    padding:0;
+}
+
+.navbarRight{
+    margin:0;
+    padding:0;
+}
+
+#menuCart{
+    width:100%;
+    height:auto;
+}
+
+.mainContent{
+    height:90%;
+    margin:0;
+    padding:0;
+    background-image:url("../images/Slider.png");
+    background-size:cover;
+    background-size:124%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#shoesDisplay{
+    height:80%;
+    width:70%;
+}
+
+#shoesContainer{
+    height:98%;
+    width:100%;
+}
+
+.shoeContainer{
+    width:30%;
+    height:100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+
+#headingBanner{
+    height:100%;
+    width:18%;
+}
+
+#shoe1{
+    background-image:url("../images/adidasFALCON.png");
+}
+
+#shoe2{
+    background-image:url("../images/Nike-Air270-black.png");
+}
+
+#shoe3{
+    background-image:url("../images/Nike_M2K_Tekno.png");
+}
+
+.cta{
+    height:33%;
+    width:auto;
+}
+
+.smallText{
+    font-size: small;
+}
+
+.titleText{
+    font-family: "Courier New", Courier, monospace;
+}
+
+#thirdPage{
+    background-image:url("../images/bg.png");
+    background-size:cover;
+    background-position: center;
+}
+
+#featuredNews{
+    width:74%;
+    height:85%;
+}
+
+#bornLogo{
+    width:25%;
+    height:93%;
+    background-image: url("../images/Banner1.png");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.featuredNewsContainer{
+    height:46%;
+    width:100%;
+}
+
+.banner{
+    height:100%;
+    width:66%;
+}
+
+#banner{
+    width:97%;
+    height:100%;
+}
+
+.square{
+    height:100%;
+    width:33%;
+}
+
+#news3{
+    height:100%;
+    width:100%;
+}
+
+#news2{
+    height:100%;
+    width:100%;
+}
+
+#fifthPage{
+    background-color:rgb(1, 1, 34);
+    background-image: url("../images/Banner.png");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#visibleSmallContainer1{
+    height: 65vh;
+    width:100%;
+    background-color: rgb(236, 236, 236);
+}
+
+#visibleSmallContainer2{
+    height: 87vh;
+    width:100%;
+    background-color: rgb(236, 236, 236);
+}
+
+.brandImage{
+    width: 23%;
+    height: auto;
+}
+
+.reviewImage{
+    width: 23%;
+    height: auto;
+}
